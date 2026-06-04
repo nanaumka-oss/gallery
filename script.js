@@ -1,7 +1,7 @@
 // ─── ДАННЫЕ ─────────────────────────────────────────────
 // Замените src на пути к реальным фото, например: "images/kartina1.jpg"
 const paintings = [
-  { id:1,  title:"Закат над морем",         size:"50 × 70 см", material:"Холст",  src:"https://picsum.photos/seed/p1/600/450"  },
+  { id:1,  title:"Заяц",         size:"17 × 21 см", material:"Картон",  src:"https://picsum.photos/seed/p1/600/450"  },
   { id:2,  title:"Осенний лес",             size:"40 × 60 см", material:"Картон", src:"https://picsum.photos/seed/p2/600/450"  },
   { id:3,  title:"Утренний туман",          size:"60 × 80 см", material:"Холст",  src:"https://picsum.photos/seed/p3/600/450"  },
   { id:4,  title:"Горное озеро",            size:"30 × 40 см", material:"Картон", src:"https://picsum.photos/seed/p4/600/450"  },
